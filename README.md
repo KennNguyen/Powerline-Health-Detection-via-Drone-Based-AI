@@ -127,6 +127,6 @@ Design an AI system that identifies visible defects in powerline infrastructure 
 
 ## 📬 Contact
 
-Questions, feedback, or contributions? Open a GitHub [issue](https://github.com/your-repo/issues) or submit a pull request.
+Questions, feedback, or contributions? Open a GitHub [issue](https://github.com/KennNguyen/Powerline-Health-Detection-via-Drone-Based-AI/issues) or submit a pull request.
 
 ---
