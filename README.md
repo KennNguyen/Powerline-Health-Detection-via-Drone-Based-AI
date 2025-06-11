@@ -19,8 +19,6 @@ Design a robust AI system that identifies visible defects in powerline infrastru
 | **InsPLAD**                | 10K+ UAV images with annotations for defects (e.g., corrosion, broken caps) across multiple components. |
 | **STN PLAD**               | 2,400 annotated images from multiple tower angles and weather conditions.                               |
 | **TTPLA**                  | 1,100 high-res images of powerline structures for segmentation and detection.                           |
-| **Recognizance-2**         | Binary dataset: powerline vs. non-powerline frames.                                                     |
-| **VSB Signal-Based**       | Time-series discharge signals to support multimodal learning.                                           |
 | **Custom RT-DETR Dataset** | Drone footage with insulator annotations for normal vs. defective classification.                       |
 
 ---
